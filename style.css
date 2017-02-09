@@ -13,6 +13,10 @@ header a {
     color: red;
 }
 
+#choice {
+    color: pink;
+}
+
 #gallery {
     display: table;
     margin: auto;
